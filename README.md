@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 Meu nome é Carlos Vieira e sou estudante de Sistemas de Informação, moro em São Paulo e busco uma vaga no mercado de desenvolvimento Web
+<br>
 [Carlos Vieira](https://github-readme-stats.vercel.app/api?username=CarlDev40&hide=contribs,prs)
 <br>
 !Contate-me no:
 <br>
-![LinkedIn](https://www.linkedin.com/in/carlos-vico)
+![LinkedIn](https://www.linkedin.com/in/carlos-vico/)
 <br>
 Here are some ideas to get you started:
 
