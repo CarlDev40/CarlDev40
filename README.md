@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-
-![Carlos Vieira](https://github-readme-stats.vercel.app/api?username=CarlDev40&hide=contribs,prs)
+Meu nome é Carlos Vieira e sou estudante de Sistemas de Informação, moro em São Paulo e busco uma vaga no mercado de desenvolvimento Web
+[Carlos Vieira](https://github-readme-stats.vercel.app/api?username=CarlDev40&hide=contribs,prs)
+<br>
 !Contate-me no:
-![LinkedIn](https://www.linkedin.com/in/carlos-vico/)
+<br>
+![LinkedIn](https://www.linkedin.com/in/carlos-vico)
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
