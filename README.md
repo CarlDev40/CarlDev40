@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlDev40=true&theme=radical)
+![Carlos Vieira](https://github-readme-stats.vercel.app/api?username=CarlDev40&hide=contribs,prs)
 
 
 Here are some ideas to get you started:
