@@ -2,8 +2,8 @@
 
 
 ![Carlos Vieira](https://github-readme-stats.vercel.app/api?username=CarlDev40&hide=contribs,prs)
-
-
+Contate-me no:
+[LinkedIn](https://www.linkedin.com/in/carlos-vico/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
