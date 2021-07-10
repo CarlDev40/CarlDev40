@@ -3,13 +3,13 @@
 Meu nome é Carlos Vieira e sou estudante de Sistemas de Informação, moro em São Paulo e busco uma vaga no mercado de desenvolvimento Web.
 <br>
 Default
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="200" height="200" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
 
 # Welcome!
 
 ## I'm SEU NOME AQUI!
 
-… Insira suas descrições aqui!
+… Tecnologias Angular 8, Php, Node.js
 
 
 ## About me 
@@ -22,41 +22,8 @@ Default
 
 - Enjoy it!! o/
 
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
- 
-# Welcome!
- 
-## I'm Carlos Vieira!
- 
-… Insira suas descrições aqui!
- 
- 
-## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](link_do_seu_perfil_no_github)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
- 
-- Thanks for visiting. 
- 
-- Enjoy it!! o/
+<img align="right" width="200" height="200" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
 
-Contate-me no: [LinkedIn](https://www.linkedin.com/in/carlos-vico/)
-<br>
-![Carlos Vieira' github stats](https://github-readme-stats.vercel.app/api?username=CarlDev40&hide=contribs,prs)
-<br>
-
-![Logo of the project](https://github.com/CarlDev40/CarlDev40/blob/main/lg.png)
- 
-## Portfólio
- 
-... Description
- 
- 
-## Technology 
- 
-Here are the technologies used in this project.
- 
 * HTML5 
 * CSS
  
