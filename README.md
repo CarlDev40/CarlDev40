@@ -6,9 +6,9 @@ Contate-me no: [LinkedIn](https://www.linkedin.com/in/carlos-vico/)
 ![Carlos Vieira' github stats](https://github-readme-stats.vercel.app/api?username=CarlDev40&hide=contribs,prs)
 <br>
 
-![Logo of the project](http://logo_link)
+![Logo of the project](https://github.com/CarlDev40/CarlDev40/blob/main/lg.png)
  
-## Name_of_the_project
+## Portfólio
  
 ... Description
  
@@ -17,28 +17,17 @@ Contate-me no: [LinkedIn](https://www.linkedin.com/in/carlos-vico/)
  
 Here are the technologies used in this project.
  
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
+* HTML5 
+* CSS
  
  
 ## Services Used
  
-* Github
-* ...
+* Github 
  
- 
-## Ruby Gems
-...
  
 ## Getting started
- 
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
+
  
 ## How to use
  
