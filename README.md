@@ -3,13 +3,10 @@
 Meu nome é Carlos Vieira e sou estudante de Sistemas de Informação, moro em São Paulo e busco uma vaga no mercado de desenvolvimento Web.
 <br>
 Default
-<img align="right" width="200" height="200" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="200" height="200" src="https://github.com/CarlDev40/CarlDev40/blob/main/lg.png">
 
 # Welcome!
 
-## I'm SEU NOME AQUI!
-
-… Tecnologias Angular 8, Php, Node.js
 
 
 ## About me 
@@ -23,47 +20,3 @@ Default
 - Enjoy it!! o/
 
 <img align="right" width="200" height="200" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
-
-* HTML5 
-* CSS
- 
- 
-## Services Used
- 
-* Github 
- 
- 
-## Getting started
-
- 
-## How to use
- 
-Here will be the images and descriptions. Principal content.
- 
- 
-## Features
- 
-  - Here will be the features.
- 
- 
-## Links
- 
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
- 
- 
-## Versioning
- 
-1.0.0.0
- 
- 
-## Authors
- 
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
- 
- 
-Please follow github and join us!
-Thanks to visiting me and good coding!
